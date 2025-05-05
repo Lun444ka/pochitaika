@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/406319ca-27c2-40bb-aabc-25f659fef03d)# pochitaika
+# pochitaika
 website for creating articles
 <!DOCTYPE html>
 <html>
